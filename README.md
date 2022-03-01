@@ -70,4 +70,4 @@ I have created regression algorithms pipleine to train model. Catboost and LGBM 
 <br><br>
 <b>Approach 3</b> - I have created mean of engagement score by customer id, video id, and user id to create new feature. This feature increased my model accuracy.
 <br><br>
-<b>Final Model</b> - As mention in Approach 3 this feature gives me highest r2 score among my all submissions. So I have decided to go with this features and catboost model.
+<b>Final Model</b> - As mention in Approach 3 this feature gives me highest r2 score among my all submissions. So I have decided to go with this features and catboost model for final submission.
